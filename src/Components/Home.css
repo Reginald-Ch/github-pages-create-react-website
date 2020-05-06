@@ -1,0 +1,37 @@
+body{
+  background-color: rgb(10, 25, 47);
+   
+ 
+}
+.emoji{
+  font-size:46px 
+}
+.textsection{
+    text-align: center;
+    font-size: 46px;
+    margin-top: 10px;
+    font-weight: 700;
+}
+.section{
+    text-align: center;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 52px;
+    color: white;
+}
+.text{
+    text-align: center;
+    margin: 0;
+    font-size: 46px;
+    letter-spacing: 0;
+    line-height:52px;
+    color:white;
+    
+}
+.sector{
+    text-align: center;
+    border: 20;
+    box-sizing: border-box;
+    color: #63797C; 
+    font-size: 30px; 
+ }
